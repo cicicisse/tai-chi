@@ -34,4 +34,3 @@ Zoom option available [by request](mailto:taichiattwyfordsc@yahoo.com).
 
 * **FB:** [TaiChi @TwyfordSC](https://www.facebook.com/groups/419314689786991/) 
 * email: <taichiattwyfordsc@yahoo.com>
-* email: <ocicir@yahoo.com>
