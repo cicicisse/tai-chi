@@ -2,7 +2,7 @@
 
 ![](img/taichi-practitioner.png)
 
-# [S]{.taichi} Schedule 
+# [X]{.taichi} Schedule 
 
 Classes are on **Tuesdays**:
 
