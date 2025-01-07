@@ -11,7 +11,7 @@ Classes are on **Tuesdays**:
 
 8:30pm-9pm is the Speciality section (inclusive). 
 
-This term will cover the *Short Cane Form*.
+This term will cover the *Fan Form*.
 
 # [P]{.taichi} Price 
 
@@ -19,6 +19,7 @@ This term will cover the *Short Cane Form*.
 
 * £10 per session
 * £40 per month
+* First class is FREE for beginners
 
 # [V]{.taichi} Venue: 
 
